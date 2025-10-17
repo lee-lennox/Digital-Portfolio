@@ -5,7 +5,7 @@
 
 🌟 **Welcome to My Digital Portfolio**
 
-## 🧭 **1. Career Counselling**
+## 🗣️ 1. Business Communication
 
 ### 🗂️ Evidence  
 
@@ -16,7 +16,7 @@
 - **A**ction:  
 - **R**esult:
 
-## 🚀 **2. Skills & Interests**
+##  🤝 2. Interview Skills
 
 ### 🗂️ Evidence
 
@@ -27,6 +27,38 @@
 - **A**ction:  
 - **R**esult:
 
-## 🧬 **3. Personality Assessment**
+## 🧬 🎤 3. Mock Interview
 
 ### 🗂️ Evidence
+
+### ✨ Reflection – Using STAR  
+
+- **S**ituation:  
+- **T**ask:  
+- **A**ction:  
+- **R**esult:
+
+## 🌐 4. Professional Networking
+
+### 🗂️ Evidence
+
+### ✨ Reflection – Using STAR  
+
+- **S**ituation:  
+- **T**ask:  
+- **A**ction:  
+- **R**esult:
+
+ ##  🧭 5. Workplace Etiquette
+
+### 🗂️ Evidence
+
+ ### ✨ Reflection – Using STAR  
+
+- **S**ituation:  
+- **T**ask:  
+- **A**ction:  
+- **R**esult:
+
+## 💼🌱 **Conclusion**
+
