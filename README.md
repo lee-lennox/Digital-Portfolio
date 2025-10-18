@@ -120,10 +120,8 @@ This digital portfolio is more than a collection of reflections ,it’s the stor
 
 My Work Readiness journey has been an enlightening and transformative experience.  
 Through each component, I developed both **technical** and **soft skills** essential for success in the ICT industry.  
-
 I learned to communicate effectively, present myself professionally, and embrace collaboration within diverse teams.  
 The mock interviews and STAR reflections improved my self-awareness and confidence, while professional networking helped me understand the importance of digital branding and industry connections.  
-
 This portfolio demonstrates my readiness to transition into the professional world as a capable, responsible, and growth-driven ICT graduate.  
 I look forward to applying these skills in real-world environments and contributing positively to the technology sector.  
 
