@@ -58,7 +58,7 @@ Each section below includes proof of my learning and development in key professi
 ## 🌐 4️⃣ Professional Networking
 
 ### 🗂️ Evidence  
-[🔗 My LinkedIn Profile](https://www.linkedin.com/in/lennox-komane-3b3023329)  
+[🔗 My LinkedIn Profile](https://www.linkedin.com/in/lennoxkomane)  
 *Example: LinkedIn profile created to expand professional connections and showcase my skills.*
 
 ### ✨ Reflection – Using STAR  
@@ -99,7 +99,8 @@ I look forward to applying these skills in real-world environments and contribut
 ---
 
 > 💬 *Thank you for viewing my portfolio.*  
-> 📎 Connect with me on [LinkedIn](https://www.linkedin.com/in/lennox-komane-3b3023329)  
+> 📎 Connect with me on [LinkedIn](https://www.linkedin.com/in/lennoxkomane)  
 > 📧 Email: [lennox.lee1927@gmail.com](mailto:lennox.lee1927@gmail.com)
 
 ---
+
