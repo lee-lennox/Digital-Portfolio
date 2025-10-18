@@ -5,16 +5,22 @@
 
 🌟 **Welcome to My Digital Portfolio**
 
-This portfolio showcases my **Work Readiness Journey** through evidence and reflections based on the STAR (Situation, Task, Action, Result) framework.  
-Each section below includes proof of my learning and development in key professional areas.
+This digital portfolio is more than a collection of reflections ,it’s the story of how I prepared myself to enter the ICT industry with confidence, integrity, and creativity.  
 
 ---
 
-## 🗣️ 1️⃣ Business Communication
+## 1️⃣. Business Communication
 
 ### 🗂️ Evidence  
-![Professional Email Example](images/business-email.png)  
-*Example: Email sent to my mentor requesting document review and signature.*
+
+1.![WhatsApp Image 2025-10-18 at 18 17 22](https://github.com/user-attachments/assets/0f06beea-a131-42de-a51d-1518272a86f8)
+
+<br><br><br><br>
+
+2.Presentation  ![WhatsApp Image 2025-10-18 at 20 23 04](https://github.com/user-attachments/assets/de27fe77-4859-4709-bdeb-99757d98a062)
+
+
+
 
 ### ✨ Reflection – Using STAR  
 
@@ -25,11 +31,19 @@ Each section below includes proof of my learning and development in key professi
 
 ---
 
-## 🤝 2️⃣ Interview Skills
+##  2️⃣ Interview Skills
 
 ### 🗂️ Evidence  
-![CV Example](images/cv-screenshot.png)  
-*Example: Screenshot of my updated CV created during the Interview Skills workshop.*
+
+1.![WhatsApp Image 2025-10-18 at 18 18 49](https://github.com/user-attachments/assets/dd7a3c7f-85ab-4171-a272-df90713c33ad)
+
+<br><br><br><br>
+
+2.Curriculum Vitae ![WhatsApp Image 2025-10-18 at 18 20 30](https://github.com/user-attachments/assets/9beb215d-a199-49a5-a06b-44bd50e0f2ed)
+<br><br><br><br>
+
+2.Feedback for Interview ![WhatsApp Image 2025-10-18 at 19 55 20](https://github.com/user-attachments/assets/0cf56f5b-a685-4328-a985-656f1ae2b7b2)
+
 
 ### ✨ Reflection – Using STAR  
 
@@ -40,11 +54,15 @@ Each section below includes proof of my learning and development in key professi
 
 ---
 
-## 🧬🎤 3️⃣ Mock Interview
+##  3️⃣ Mock Interview
 
 ### 🗂️ Evidence  
-![Mock Interview Feedback](images/mock-feedback.png)  
-*Example: Screenshot of feedback received from my mock interview session.*
+
+🎬 **Watch My Mock Interview:**  
+
+[![Watch on Google Drive](https://img.shields.io/badge/▶️%20Click%20to%20Watch%20Video-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1p5TK8YmEIpRBRchXLZJxlqXMdnpe8SqP/view?usp=sharing)
+
+> 🌱 *This experience helped me build confidence, improve my interview techniques, and prepare for real-world opportunities such as WIL placements and future ICT roles.*
 
 ### ✨ Reflection – Using STAR  
 
@@ -55,11 +73,21 @@ Each section below includes proof of my learning and development in key professi
 
 ---
 
-## 🌐 4️⃣ Professional Networking
+##  4️⃣ Professional Networking
 
 ### 🗂️ Evidence  
-[🔗 My LinkedIn Profile](https://www.linkedin.com/in/lennoxkomane)  
-*Example: LinkedIn profile created to expand professional connections and showcase my skills.*
+
+1.![WhatsApp Image 2025-10-18 at 18 21 27](https://github.com/user-attachments/assets/13303d0f-a1c9-4b4c-a5c3-43a613a5ded3)
+
+<br><br><br><br>
+
+2.Linkedin Profile ![WhatsApp Image 2025-10-18 at 18 15 52](https://github.com/user-attachments/assets/f629f438-8a33-4ec7-a1b8-d040188e4675)
+<br><br><br><br>
+
+
+3.Github Profile <img width="1485" height="614" alt="image" src="https://github.com/user-attachments/assets/326e9f49-bb4c-4309-b673-78f0626d01fe" />
+
+
 
 ### ✨ Reflection – Using STAR  
 
@@ -70,11 +98,14 @@ Each section below includes proof of my learning and development in key professi
 
 ---
 
-## 🧭 5️⃣ Workplace Etiquette
+##  5️⃣ Workplace Etiquette
 
 ### 🗂️ Evidence  
-![Workplace Etiquette Training](images/workplace-etiquette.png)  
-*Example: Screenshot of my workplace etiquette session materials.*
+
+1.![WhatsApp Image 2025-10-18 at 20 28 57](https://github.com/user-attachments/assets/77405427-f097-4f79-be57-5618be7adcd6)
+<br><br><br><br>
+<img width="629" height="424" alt="image" src="https://github.com/user-attachments/assets/52e8669e-9f36-46c7-ada9-a94fac3936d2" />
+
 
 ### ✨ Reflection – Using STAR  
 
